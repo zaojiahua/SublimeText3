@@ -1,0 +1,1313 @@
+{
+	"folder_history":
+	[
+		"/G/code/grunttest",
+		"/G/software/bootstrap/less",
+		"/G/code/public_html/lession/less",
+		"/G/code/public_html/less",
+		"/G/code/less/lession1",
+		"/G/code/public_html/lession/storage",
+		"/G/code/public_html/lession/sports",
+		"/G/code/public_html/lession/angularjs",
+		"/G/code/angularjs",
+		"/G/code/public_html/lession/bootstrap",
+		"/G/code/bootstrap",
+		"/G/code/public_html/lession/jquery",
+		"/D/16期基础班/基础班文件",
+		"/D/12期基础班知识点！！！/基础班/03-js/js第二天",
+		"/C/Users/Administrator/Desktop/新建文件夹",
+		"/F/Pictures",
+		"/D/12期基础班知识点！！！",
+		"/C/Users/Administrator/Desktop",
+		"/F/Pictures/传智桌面壁纸",
+		"/F/Pictures/love的旅行"
+	],
+	"last_version": 3095,
+	"last_window_id": 18,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 627.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"po",
+						"prompt"
+					],
+					[
+						"age",
+						"age1"
+					],
+					[
+						"sum",
+						"sum1"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"wi",
+						"width"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control:  install package",
+				"selected_items":
+				[
+					[
+						"Package Control:  install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 424.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/16期基础班/基础班文件/第一天",
+				"/D/12期基础班知识点！！！/基础班/03-js/js第二天/03.html",
+				"/D/12期基础班知识点！！！/基础班/03-js/js第二天/02.html",
+				"/D/12期基础班知识点！！！/基础班/03-js/js第二天/while.html",
+				"/D/12期基础班所需软件/12期基础班所需软件/SublimeText3前端学院免安装版/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/User/Package Control.sublime-settings",
+				"/D/12期基础班所需软件/12期基础班所需软件/SublimeText3前端学院免安装版/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+				"/D/12期基础班所需软件/12期基础班所需软件/SublimeText3前端学院免安装版/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/12期基础班所需软件/12期基础班所需软件/SublimeText3前端学院免安装版/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/D/12期基础班知识点！！！/基础班/02-CSS/练习.html",
+				"/D/12期基础班知识点！！！/基础班/基础班第二天--HTML（第2天）/练习/01.html",
+				"/C/Users/Administrator/Desktop/新知识/html第二天.html",
+				"/F/Pictures/传智桌面壁纸/相对路径.html",
+				"/F/Pictures/传智桌面壁纸/景2.html",
+				"/F/Pictures/传智桌面壁纸/景3.html",
+				"/F/Pictures/传智桌面壁纸/景4.html",
+				"/F/Pictures/传智桌面壁纸/景1.html",
+				"/F/Pictures/传智桌面壁纸/四景图.html",
+				"/F/Pictures/传智桌面壁纸/html标签.html",
+				"/F/Pictures/传智桌面壁纸/滚动模式.html",
+				"/F/Pictures/传智桌面壁纸/音乐标签.html",
+				"/C/Users/Administrator/Desktop/酷狗音乐.lnk",
+				"/F/Pictures/desktop.ini",
+				"/F/Pictures/传智桌面壁纸/tupian2.html",
+				"/F/Pictures/传智桌面壁纸/tupian.html",
+				"/D/12期基础班知识点！！！/基础班/图片标志.html",
+				"/F/Pictures/传智桌面壁纸/bizhi/itcast.jpg",
+				"/D/03.html",
+				"/D/01.html",
+				"/D/02.html",
+				"/E/Work/待整理资料/SublimeText_XP85/SublimeText_XP85/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/E/Work/待整理资料/SublimeText_XP85/SublimeText_XP85/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/Work/待整理资料/SublimeText_XP85/SublimeText_XP85/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/User/Distraction Free.sublime-settings",
+				"/E/Work/待整理资料/SublimeText_XP85/SublimeText_XP85/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/User/Plain text.sublime-settings",
+				"/E/Work/待整理资料/SublimeText_XP85/SublimeText_XP85/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+				"/E/Work/待整理资料/SublimeText_XP85/SublimeText_XP85/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Lee/Desktop/test.html"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"		\n",
+					">\n",
+					"<div>haha</div><div>xixi</div>",
+					"></",
+					"<li>\n",
+					">\n",
+					"流风清音"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<h1>"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 28.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 164.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 686.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"wid",
+						"width"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"rgb",
+						"rgb(r,g,b)"
+					],
+					[
+						"anot",
+						"anotherObject"
+					],
+					[
+						"an",
+						"anotherFunction"
+					],
+					[
+						"exp",
+						"expires"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"produ",
+						"products"
+					],
+					[
+						"categr",
+						"categoryFilterFn"
+					],
+					[
+						"sle",
+						"selectedPage"
+					],
+					[
+						"select",
+						"selectedPage"
+					],
+					[
+						"controll",
+						"controllers"
+					],
+					[
+						"sele",
+						"selectedCategory"
+					],
+					[
+						"pro",
+						"products	(sportsStore.js)"
+					],
+					[
+						"spor",
+						"sportsStoreCtrl	(sportsStore.js)"
+					],
+					[
+						"w",
+						"warningLevel"
+					],
+					[
+						"in",
+						"incompleteCount"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"add",
+						"addClick	(app.js)"
+					],
+					[
+						"alig",
+						"align-content"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"angu",
+						"angularjs"
+					],
+					[
+						"text-ed",
+						"text-indent"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"po",
+						"prompt"
+					],
+					[
+						"age",
+						"age1"
+					],
+					[
+						"sum",
+						"sum1"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"wi",
+						"width"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/G/software/bootstrap/less/bootstrap.less",
+					"settings":
+					{
+						"buffer_size": 1291,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/G/code/public_html/lession/less/less/scaffolding.less",
+					"settings":
+					{
+						"buffer_size": 2987,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/gaohuang/Desktop/常用笔记.txt",
+					"settings":
+					{
+						"buffer_size": 1201,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/G/code/public_html/lession/less/index.html",
+					"settings":
+					{
+						"buffer_size": 1178,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/G/code/public_html/lession/less/test.less",
+					"settings":
+					{
+						"buffer_size": 1789,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"packagei",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:  install package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/G/code/public_html/lession/less",
+				"/G/code/public_html/lession/less/less",
+				"/G/software/bootstrap/less"
+			],
+			"file_history":
+			[
+				"/G/software/bootstrap/less/glyphicons.less",
+				"/G/code/public_html/lession/less/less/print.less",
+				"/G/software/bootstrap/less/variables.less",
+				"/G/code/public_html/lession/less/less/glyphicons.less",
+				"/C/Users/gaohuang/Desktop/常用笔记.txt",
+				"/G/software/bootstrap/less/normalize.less",
+				"/G/software/bootstrap/less/print.less",
+				"/G/software/bootstrap/less/mixins.less",
+				"/G/software/bootstrap/less/mixins/hide-text.less",
+				"/G/software/bootstrap/less/mixins/opacity.less",
+				"/G/software/bootstrap/less/mixins/gradients.less",
+				"/G/code/public_html/lession/less/theme.css",
+				"/G/code/public_html/lession/less/global.css",
+				"/G/software/bootstrap/Gruntfile.js",
+				"/G/code/grunttest/package.json",
+				"/G/code/grunttest/lib/test.js",
+				"/G/code/grunttest/lib/index.js",
+				"/G/code/grunttest/build/app.min.js",
+				"/G/code/grunttest/Gruntfile.js",
+				"/G/software/bootstrap/package.json",
+				"/G/software/bootstrap/package.js",
+				"/G/software/bootstrap/less/bootstrap.less",
+				"/G/software/bootstrap/js/scrollspy.js",
+				"/G/software/bootstrap/less/buttons.less",
+				"/G/software/bootstrap/less/forms.less",
+				"/G/software/bootstrap/less/tables.less",
+				"/G/software/bootstrap/less/grid.less",
+				"/G/software/bootstrap/less/code.less",
+				"/G/software/bootstrap/less/type.less",
+				"/G/software/bootstrap/less/scaffolding.less",
+				"/G/software/bootstrap/less/mixins/buttons.less",
+				"/G/software/bootstrap/less/mixins/alerts.less",
+				"/G/software/bootstrap/less/mixins/background-variant.less",
+				"/G/software/bootstrap/less/mixins/border-radius.less",
+				"/G/code/public_html/lession/less/index.html",
+				"/G/code/public_html/lession/less/test.less",
+				"/G/code/public_html/lession/less/less.js",
+				"/G/software/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+				"/G/code/less/lession1/test.less",
+				"/G/code/less/lession1/index.html",
+				"/G/software/Sublime Text/Data/Packages/LESS/LESS.sublime-settings",
+				"/G/software/Sublime Text/Data/Packages/LESS/README.md",
+				"/G/code/public_html/lession/storage/lession.html",
+				"/G/code/public_html/lession/storage/mianshi2.html",
+				"/C/Users/gaohuang/Desktop/Android开发艺术探索 %28任玉刚著%29 pdf扫描版/Android开发艺术探索/说明.txt",
+				"/G/code/public_html/lession/storage/1.google",
+				"/C/Users/gaohuang/Downloads/你不知道的JavaScript%28上卷%29 中文pdf扫描版/你不知道的JavaScript（上卷）/你不知道的JavaScript(上卷).txt",
+				"/C/Users/gaohuang/Downloads/你不知道的JavaScript%28上卷%29 中文pdf扫描版/你不知道的JavaScript（上卷）/说明.txt",
+				"/G/code/public_html/lession/storage/mianshi.html",
+				"/C/Users/gaohuang/Desktop/新建文本文档.txt",
+				"/C/Users/gaohuang/Desktop/电子书地址.txt",
+				"/C/Users/gaohuang/Desktop/1111.txt",
+				"/G/code/public_html/lession/storage/jsonp.html",
+				"/G/code/public_html/canvas/validate.php",
+				"/G/code/public_html/lession/storage/test.html",
+				"/G/code/public_html/lession/storage/1.css",
+				"/G/code/public_html/lession/storage/map.html",
+				"/G/code/public_html/lession/storage/storage.html",
+				"/G/code/public_html/lession/storage/storage2.html",
+				"/G/code/html/storage.html",
+				"/G/code/html/storage2.html",
+				"/G/code/public_html/lession/sports/app/controllers/sportsStore.js",
+				"/G/code/public_html/lession/sports/app/controllers/productListController.js",
+				"/G/code/public_html/lession/sports/app/filters/customFilters.js",
+				"/G/code/public_html/lession/sports/app/app.html",
+				"/G/code/public_html/lession/angularjs/todo.html",
+				"/G/code/public_html/lession/bootstrap/index.html",
+				"/G/btsyn/22/更多密钥来changlai.net.txt",
+				"/G/code/public_html/lession/angularjs/todo.json",
+				"/G/code/angularjs/todo.html",
+				"/G/code/angularjs/todo.json",
+				"/G/btsyn/6/2012/2012.10-QQ精准客户名单-4500万-txt/QQ精准客户名单数据库（分类完整4500万/电脑/电脑qq号码（213718个群成员）.txt",
+				"/G/btsyn/6/2012/2012.10-QQ精准客户名单-4500万-txt/QQ精准客户名单数据库（分类完整4500万/网赚/网赚qq号码（229030个群成员）.txt",
+				"/G/btsyn/6/2012/2012.10-QQ精准客户名单-4500万-txt/QQ精准客户名单数据库（分类完整4500万/打工一族/打工一族qq号（110146个群成员）.txt",
+				"/G/btsyn/6/2015/2015.06-手机数据-50万-txt/手机数据50W_10.txt",
+				"/C/Users/gaohuang/Downloads/bootstrap-3.3.7/less/normalize.less",
+				"/G/code/bootstrap/index.html",
+				"/G/code/angularjs/index.html",
+				"/G/code/angularjs/server.js",
+				"/G/software/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css",
+				"/G/software/bootstrap-3.3.7-dist/css/bootstrap.min.css",
+				"/G/software/bootstrap-3.3.7-dist/css/bootstrap.css.map",
+				"/G/software/bootstrap-3.3.7-dist/css/bootstrap.css",
+				"/C/Users/gaohuang/Desktop/610116.txt",
+				"/G/code/public_html/lession/jquery/app.js",
+				"/G/code/public_html/lession/jquery/main.css",
+				"/G/code/public_html/lession/jquery/test.html",
+				"/G/code/public_html/lession/jquery/index.html",
+				"/C/Users/gaohuang/AppData/Local/Temp/WPDNSE/{00007456-0001-0001-0000-000000000000}/610116.txt",
+				"/C/Users/gaohuang/AppData/Local/Temp/WPDNSE/{00007456-0001-0001-0000-000000000000}/610117.txt",
+				"/C/Users/gaohuang/Downloads/610116.txt",
+				"/G/code/public_html/lession/jquery/listController.js",
+				"/G/software/php-5.6.22-Win32-VC11-x64/install.txt",
+				"/G/code/public_html/lession/jquery/lession1",
+				"/G/code/public_html/lession/jquery/weibo.html",
+				"/F/BaiduYunDownload/《前端轻松入门：CSS超强视频分享》/下载必看.txt",
+				"/G/code/public_html/lession/jquery/jquery-3.1.1.js",
+				"/G/code/public_html/lession/jquery/jquery.cookie.js",
+				"/G/software/Sublime Text/Data/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+				"/G/software/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/G/software/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/G/software/Sublime Text/Data/Packages/User/HTMLBeautify.sublime-settings",
+				"/G/software/Sublime Text/Data/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/G/software/Sublime Text/ReadMe.txt",
+				"/D/16期基础班/基础班文件/第一天html/01.html",
+				"/D/16期基础班/基础班文件/01fengjing.html",
+				"/D/16期基础班/基础班文件/03.html",
+				"/D/16期基础班/基础班文件/images/01.html",
+				"/D/16期基础班/基础班文件/04.html",
+				"/D/16期基础班/基础班文件/04.盒子大小问题",
+				"/D/16期基础班/基础班文件/fengjing/xiaogou.bmp",
+				"/D/16期基础班/基础班文件/第一天html/02.html",
+				"/D/16期基础班/基础班文件/第一天",
+				"/D/12期基础班知识点！！！/基础班/03-js/js第二天/03.html",
+				"/D/12期基础班知识点！！！/基础班/03-js/js第二天/02.html",
+				"/D/12期基础班知识点！！！/基础班/03-js/js第二天/while.html",
+				"/D/12期基础班所需软件/12期基础班所需软件/SublimeText3前端学院免安装版/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/User/Package Control.sublime-settings",
+				"/D/12期基础班所需软件/12期基础班所需软件/SublimeText3前端学院免安装版/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+				"/D/12期基础班所需软件/12期基础班所需软件/SublimeText3前端学院免安装版/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/12期基础班所需软件/12期基础班所需软件/SublimeText3前端学院免安装版/Sublime_Text_Build_3095_x64_CHS_Lfqy_Green/Sublime Text/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/D/12期基础班知识点！！！/基础班/02-CSS/练习.html",
+				"/D/12期基础班知识点！！！/基础班/基础班第二天--HTML（第2天）/练习/01.html",
+				"/C/Users/Administrator/Desktop/新知识/html第二天.html",
+				"/F/Pictures/传智桌面壁纸/相对路径.html",
+				"/F/Pictures/传智桌面壁纸/景2.html",
+				"/F/Pictures/传智桌面壁纸/景3.html",
+				"/F/Pictures/传智桌面壁纸/景4.html",
+				"/F/Pictures/传智桌面壁纸/景1.html"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"icon-font-path",
+					"text-overflow",
+					"arclist",
+					"true",
+					"sessionStorage",
+					"media (min-width",
+					"206",
+					"ctrl+shift+c",
+					"		\n",
+					">\n",
+					"<div>haha</div><div>xixi</div>",
+					"></",
+					"<li>\n",
+					">\n",
+					"流风清音"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"localStorage",
+					"<h1>"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "G:\\code\\public_html\\lession\\less"
+				},
+				{
+					"path": "G:\\software\\bootstrap\\less"
+				},
+				{
+					"path": "G:\\code\\grunttest"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/G/software/bootstrap/less/bootstrap.less",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1291,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										411,
+										411
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/LESS-sublime-master/LESS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 66.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/G/code/public_html/lession/less/less/scaffolding.less",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2987,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										375,
+										375
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/LESS-sublime-master/LESS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/gaohuang/Desktop/常用笔记.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1201,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1201,
+										1201
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"is_xml": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 792.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/G/code/public_html/lession/less/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1043,
+										1043
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1037,
+												1042
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												431,
+												436
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"is_xml": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 594.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/G/code/public_html/lession/less/test.less",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1789,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1254,
+										1254
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/LESS-sublime-master/LESS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": -0.0,
+								"translation.y": 396.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 28.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,1034,234,168,1785",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"jq",
+						"jquery.cookie.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "each",
+				"selected_items":
+				[
+					[
+						"each",
+						"each"
+					]
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 278.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 18,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
